@@ -2,6 +2,12 @@
 
 # README #
 
+This is just a forked version of the servisys/ispconfig_setup at https://github.com/servisys/ispconfig_setup
+The only change that has been made to this is:
+* Removed php-mcrypt from the Debian 10 installation.
+
+If you want to donate to the original creator:
+
 [![PayPayl donate button](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TB4Q3UJDC5JDJ "Help US support this project using Paypal")
 
 # Newsletter #
