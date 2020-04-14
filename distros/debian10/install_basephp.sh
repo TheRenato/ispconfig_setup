@@ -4,6 +4,6 @@
 #---------------------------------------------------------------------
 InstallBasePhp(){
   echo -n "Installing basic PHP modules... "
-  apt_install php-cli php-mysql php-mcrypt mcrypt php-mbstring
+  apt_install php-cli php-mysql mcrypt php-mbstring
   echo -e "[${green}DONE${NC}]\n"
 }
